@@ -1,4 +1,4 @@
-# API RESTFull controle de dividas
+# API RESTFul controle de dividas
 
 ## Tecnologias utilizadas
 - Express.
